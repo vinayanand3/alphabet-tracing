@@ -1,0 +1,8 @@
+{
+  "name": "Golden Trace: Magic Alphabet",
+  "description": "An interactive, gesture-based alphabet tracing game for kids using hand tracking and golden particle effects. Features a Gemini-powered live companion for encouragement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
